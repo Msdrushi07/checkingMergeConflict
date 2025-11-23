@@ -5,5 +5,6 @@ public class Feature3 {
 
         System.out.println("created feature 3 file");
         System.out.println("creating conflict");
+         System.out.println("added new line");
     }
 }
