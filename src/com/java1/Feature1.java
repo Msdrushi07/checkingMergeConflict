@@ -5,6 +5,7 @@ public class Feature1 {
 
         System.out.println("now crating merge conflict");
          System.out.println("now crating merge conflict");
+        System.out.println("now crating merge conflict");
 
 
         System.out.println("editing file which is done by feature 6 but different line");
