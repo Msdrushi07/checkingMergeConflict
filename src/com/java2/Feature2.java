@@ -5,5 +5,6 @@ public class Feature2 {
 
         System.out.println("added feature 7!");
         System.out.println("now crating merge conflict");
+        System.out.println("now crating merge conflict");
     }
 }
